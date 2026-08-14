@@ -1,4 +1,4 @@
-#Hii there.....
+
 # 💫 About Me:
 🔭 I’m currently working on FastAPI and MLOps<br>👯 I’m looking to collaborate on building AI Agents<br>🌱 I’m currently learning DevOps<br>⚡ Fun fact: AI is older than you might think, starting in the 1950s
 
